@@ -11,11 +11,11 @@ body{
 
 .product{
     display: grid;
-    width: 770px;
+    width: 50%;
     word-spacing: 5px;
     letter-spacing: 2px;
     height: 700px;
-    line-height: 30px;
+    line-height: 35px;
     margin: 200px 360px;
     background: white;
     grid-template-columns: 50% 50%;
@@ -59,7 +59,7 @@ h1{
     border-radius: 5px;
     text-align: center;
     width: 70%;
-    transform: translate(50px, 0);
+    transform: translate(30px, 0);
     background: green;
 }
 
