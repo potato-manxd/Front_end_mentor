@@ -12,6 +12,7 @@ body{
 .product{
     display: grid;
     width: 50%;
+    transform: scale(0.1, 0.1);
     word-spacing: 5px;
     letter-spacing: 2px;
     height: 700px;
