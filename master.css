@@ -1,0 +1,70 @@
+body{
+    height: 1000px;
+    background-color: hsl(30, 38%, 92%)
+}
+
+.container{
+    width: 1440px;
+    display: ;
+    height: 1000px;
+}
+
+.product{
+    display: grid;
+    width: 770px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    height: 700px;
+    line-height: 30px;
+    margin: 200px 360px;
+    background: white;
+    grid-template-columns: 50% 50%;
+}
+
+.con{
+    height: 700px;
+    width: 100%;
+}
+
+img{
+    width: 100%;
+    height: 700px;
+}
+
+p,
+del,
+h1{
+    margin-left: 20px;
+}
+
+.pre{
+    opacity: 0.9;
+    display: inline-block;
+}
+
+.name{
+    font-weight: 700;
+    font-family: https://fonts.google.com/specimen/Montserrat);
+    display: inline-block;
+    display: block;
+}
+
+.des{
+    font-weight: 700;
+    font-family: https://fonts.google.com/specimen/Fraunces);
+
+}
+
+.add{
+    border-radius: 5px;
+    text-align: center;
+    width: 70%;
+    transform: translate(50px, 0);
+    background: green;
+}
+
+.price{
+    display: inline-block;
+    color: green;
+    font-size: 30px;
+}
